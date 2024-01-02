@@ -37,6 +37,6 @@ Proyecto induvidual del bootcamp Henry sobre corredores de Formula 1 con impleme
 
 ## Contacto
 
-¡Me encantaría conectarme contigo! Puedes encontrarme en LinkedIn: https://www.linkedin.com/in/vicenteford/ o tambien podes mandarme un mail a fordvicente1@gmail.com
+¡Me encantaría que me contactes! Puedes encontrarme en LinkedIn: https://www.linkedin.com/in/vicenteford/ o tambien puedes mandarme un mail a fordvicente1@gmail.com
 
 ¡Gracias por visitar mi perfil!
