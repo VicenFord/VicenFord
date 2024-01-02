@@ -27,7 +27,7 @@ Hola, soy <strong>Vicente Ford</strong>, Frontend Developer hace 3 años. Me ded
 - Trello
 - Figma
 
-## Proyectos Destacados 💻:
+## Algunos de mis proyectos 💻 :
 
 ### 1. [EngPartner](https://github.com/Luuiskame/EngPartnerV2)
 EngPartner es una red social que te conecta con personas de todo el mundo para practicar idiomas. Elige dos idiomas de tu preferencia y experimenta conversaciones traducidas en tiempo real. Nuestra plataforma elimina las barreras del idioma, permitiéndote sumergirte en nuevas culturas y ampliar tus habilidades lingüísticas de manera divertida e interactiva. Únete a nuestra comunidad global y construye nuevas amistades a través del poder del lenguaje. Link: 
