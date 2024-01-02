@@ -1,11 +1,11 @@
 # Bienvenid@ a mi Perfil de GitHub! 🚀
-![Yo :)](https://avatars.githubusercontent.com/u/86796044?v=4)
+<img src="https://avatars.githubusercontent.com/u/86796044?v=4" alt="Vicente Ford image" width="300" height="300">
 
 
 Hola, soy <strong>Vicente Ford</strong>, Frontend Developer hace 3 años. Me dedico a ésto porque creo en el gran impacto que tiene la tecnología hoy en día y a futuro, y quiero ser parte de eso. A pesar de ya contar con experiencia laboral, sigo informandome y estudiando constantemente sobre las tendencias y novedades del desarrollo, por eso recientemente terminé el bootcamp de Henry orientado a Full Stack Developer. Me apasiono además, por la música y el deporte, en especial el básquet.
 
 
-## Tecnologías Implementadas durante el tiempo:
+## Tecnologías que he implementado:
 
 ### Frontend:
 - JavaScript
