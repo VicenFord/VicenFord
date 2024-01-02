@@ -27,13 +27,23 @@ Hola, soy <strong>Vicente Ford</strong>, Frontend Developer hace 3 años. Me ded
 - Trello
 - Figma
 
-## Proyectos Destacados
+## Proyectos Destacados 💻:
 
 ### 1. [EngPartner](https://github.com/Luuiskame/EngPartnerV2)
-EngPartner es una red social que te conecta con personas de todo el mundo para practicar idiomas. Elige dos idiomas de tu preferencia y experimenta conversaciones traducidas en tiempo real. Nuestra plataforma elimina las barreras del idioma, permitiéndote sumergirte en nuevas culturas y ampliar tus habilidades lingüísticas de manera divertida e interactiva. Únete a nuestra comunidad global y construye nuevas amistades a través del poder del lenguaje.
+EngPartner es una red social que te conecta con personas de todo el mundo para practicar idiomas. Elige dos idiomas de tu preferencia y experimenta conversaciones traducidas en tiempo real. Nuestra plataforma elimina las barreras del idioma, permitiéndote sumergirte en nuevas culturas y ampliar tus habilidades lingüísticas de manera divertida e interactiva. Únete a nuestra comunidad global y construye nuevas amistades a través del poder del lenguaje. Link: 
 
 ### 2. [Proyecto Individual Henry](https://github.com/VicenFord/cr-pi-drivers-main)
 Proyecto induvidual del bootcamp Henry sobre corredores de Formula 1 con implementaciones y funciones full-stack.
+
+### 3. [Image Gallery App](https://galleryappreactvicente.netlify.app/)
+Proyecto induvidual para buscar y encontrar la cantidad de imágenes sin copyright que desees para lo que mas quieras. Hecho con React (Single Page Application)
+
+## Curriculum Vitae (CV) 📄:
+Español: https://drive.google.com/file/d/14345agop8nIsKuZQ4eH5SPl8QervMtVI/view?usp=sharing <br>
+English: https://drive.google.com/file/d/1yBvpn7zqF6iIyN7zahrJiXLUCZtY1at4/view?usp=sharing <br>
+
+Tambien poseo un nivel de ingles avanzado, podes verlo [aqui](https://www.efset.org/cert/WWmwsy)
+
 
 ## Contacto
 
