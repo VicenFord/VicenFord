@@ -10,6 +10,7 @@ Hola, soy <strong>Vicente Ford</strong>, Frontend Developer hace 3 años. Me ded
 ### Frontend:
 - JavaScript
 - React.JS
+- Next.JS
 - Redux
 - CSS
 - Material-UI
@@ -17,9 +18,10 @@ Hola, soy <strong>Vicente Ford</strong>, Frontend Developer hace 3 años. Me ded
 - Bootstrap
 ### Backend:
 - PostgreSQL
+- MySQL
+- Express
 - Firebase
 - Sequelize
-- Express
 - Node
 ### Extras:
 - GIT
