@@ -1,4 +1,4 @@
-# Bienvenid@ a mi Perfil de GitHub! 🚀
+# Bienvenid@ a mi Perfil de GitHub!
 <img src="https://avatars.githubusercontent.com/u/86796044?v=4" alt="Vicente Ford image" width="300" height="300">
 
 
